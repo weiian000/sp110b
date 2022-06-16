@@ -50,7 +50,7 @@
  <img src="./sp_image/insert_result.png"  height="150" width="800">
 
 
-<a href="">insert_many.py</a> 可以一次插入多筆資料
+<a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/insert_many.py">insert_many.py</a> 可以一次插入多筆資料
 
  <img src="./sp_image/insert_many.png"  height="400px">
 
@@ -87,7 +87,7 @@
    
    可以看到更新後的第二筆資料 temperature 更新為34
 
- <a href="">update_many.py</a>可以一次更新多筆符合條件的資料 
+ <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/update_many.py">update_many.py</a>可以一次更新多筆符合條件的資料 
 
 <img src="./sp_image/update.png"  height="350px">
     
