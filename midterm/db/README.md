@@ -92,6 +92,7 @@
 <img src="./sp_image/update.png"  height="350px">
     
     在執行前再做一次insert.py 新增第五筆資料
+
 執行結果:
    (更新資料前) 
   <img src="./sp_image/update_many_insert.png"  height="130" width="800">
@@ -144,7 +145,7 @@ Code
 
 若今天想要從資料庫裡下載照片
 
-對應的程式為 <a href="">download_image.py</a> 
+對應的程式為 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/download_img.py">download_image.py</a> 
 
 Code
 
