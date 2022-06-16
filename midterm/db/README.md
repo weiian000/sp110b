@@ -1,11 +1,13 @@
 # Mongodb 資料庫
 
 * 前言:
-<pre>
+
     選擇資料庫當作期中作業是因為專題正好是負責管理資料庫，以及看到老師期中作業制定題目的最後一項有資料庫這個選項。不如把在專題時學習資料庫所寫的程式以及資料庫的
     
     基本語法做一個彙整筆記，這個筆記內含基本的資料庫語法 CRUD --> (Create Retrieve Update Delete) ， 以及結合資料庫的一些應用。
-</pre>
+
+    原創性說明 : 100% 原創
+
 
 ## 資料庫環境介紹
 --------------------------------------
@@ -157,24 +159,25 @@ Code
 
 成功的將資料庫的照片下載下來
 
+## 資料庫讀取將資料以圖表呈現
 
+Code
 
+<a href="">draw.py<a>
 
+執行結果:
 
+<img src="./sp_image/draw1.png"  height="400px">
+<img src="./sp_image/draw2.png"  height="400px">
 
+-------------------------------------------------------
 
+除了網頁版的 MongoDB Altas 也可以使用 MongoDB Compass 
 
+下載應用程式並將先前提到的 connection string 放入即可連接
 
+使用下來的感覺會比在網頁上操作來的順暢的多
 
+<img src="./sp_image/compass1.png"  height="400px">
 
-
-
-
-
-
-
-
-
-
-
-    
+<img src="./sp_image/compass2.png"  height="400px">
