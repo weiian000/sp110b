@@ -32,7 +32,7 @@
 
 * 選擇使用的程式語言產生 connection string 貼到所要使用的應用程式裡
 
-<img src=" ./sp_image/connect.png"  height="400px">
+<img src="./sp_image/connect.png"  height="400px">
 
 <a src ="connect.py">connect.py</a>為放connection string的檔案，這邊使用 Class 的方式讓 connection string 可以當作物件引用到其他需要連接到資料庫的檔案裡
 
@@ -44,19 +44,19 @@
 
 <pre>
 首先介紹 Create 對應的程式為 <a href="">insert.py</a> 
- <img src=" ./sp_image/insert.png"  height="400px">
+ <img src="./sp_image/insert.png"  height="400px">
 
 執行結果:
- <img src=" ./sp_image/insert_result.png"  height="150" width="800">
+ <img src="./sp_image/insert_result.png"  height="150" width="800">
 
 
 <a href="">insert_many.py</a> 可以一次插入多筆資料
 
- <img src=" ./sp_image/insert_many.png"  height="400px">
+ <img src="./sp_image/insert_many.png"  height="400px">
 
  執行結果:
 
-  <img src=" ./sp_image/insertmany_result.png"  height="150" width="800">
+  <img src="./sp_image/insertmany_result.png"  height="150" width="800">
 
 </pre>
 
@@ -65,11 +65,11 @@
 <pre>
 接著介紹 Retrieve 對應的程式為 <a href="">ReadData.py</a> 
 
-<img src=" ./sp_image/ReadData.png"  height="350px">
+<img src="./sp_image/ReadData.png"  height="350px">
 
 執行結果:
 
-  <img src=" ./sp_image/ReadData_result.png"  height="130" width="800">
+  <img src="./sp_image/ReadData_result.png"  height="130" width="800">
 </pre>
 
 -----------------------------------------------------
@@ -77,13 +77,13 @@
 <pre>
 接著介紹 Update 對應的程式為 <a href="">update.py</a> 
 
-<img src=" ./sp_image/update.png"  height="350px">
+<img src="./sp_image/update.png"  height="350px">
 
 執行結果:
    (更新資料前) 
-  <img src=" ./sp_image/update_before.png"  height="130" width="800">
+  <img src="./sp_image/update_before.png"  height="130" width="800">
    (更新資料後)
-   <img src=" ./sp_image/update_after.png"  height="130" width="800">
+   <img src="./sp_image/update_after.png"  height="130" width="800">
    
    可以看到更新後的第二筆資料 temperature 更新為34
 
@@ -94,9 +94,9 @@
     在執行前再做一次insert.py 新增第五筆資料
 執行結果:
    (更新資料前) 
-  <img src=" ./sp_image/update_many_insert.png"  height="130" width="800">
+  <img src="./sp_image/update_many_insert.png"  height="130" width="800">
    (更新資料後)
-   <img src=" ./sp_image/updatemany_finish.png"  height="130" width="800">
+   <img src="./sp_image/updatemany_finish.png"  height="130" width="800">
    
    可以看到更新後的 第一筆跟第五筆資料 Humidity 值更新為 80 
 </pre>
@@ -105,11 +105,11 @@
 <pre>
 接著介紹 Delete 對應的程式為 <a href="">delete.py</a> 
 
-<img src=" ./sp_image/delete.png"  height="350px">
+<img src="./sp_image/delete.png"  height="350px">
 
 執行結果:
 
-  <img src=" ./sp_image/delete_finish.png"  height="200" width="800">
+  <img src="./sp_image/delete_finish.png"  height="200" width="800">
 
   執行結束後可以看到符合條件的兩筆資料被刪除了
 </pre>
@@ -128,17 +128,17 @@ fs.chunks文檔中的files_id字段將該塊鏈接到其父塊。
 
 搭配以下兩張圖片可能更可以理解一些。
 
-<img src=" ./sp_image/fs.chunks.png"  height="400px">
+<img src="./sp_image/fs.chunks.png"  height="400px">
 
-<img src=" ./sp_image/fs.files.png"  height="400px">
+<img src="./sp_image/fs.files.png"  height="400px">
 
 Code
 
-<img src=" ./sp_image/gridfsinsertimages.png"  height="400px">
+<img src="./sp_image/gridfsinsertimages.png"  height="400px">
 
 執行結果:
 
-<img src=" ./sp_image/insert_images_finish.png"  height="400px">
+<img src="./sp_image/insert_images_finish.png"  height="400px">
 
 可以看到六張照片放入資料庫
 
@@ -148,11 +148,11 @@ Code
 
 Code
 
-<img src=" ./sp_image/gridfs_download.png"  height="400px">
+<img src="./sp_image/gridfs_download.png"  height="400px">
 
 執行結果:
 
-<img src=" ./sp_image/download.png"  height="400px">
+<img src="./sp_image/download.png"  height="400px">
 
 成功的將資料庫的照片下載下來
 
