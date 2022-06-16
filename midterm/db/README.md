@@ -89,7 +89,7 @@
 
  <a href="">update_many.py</a>可以一次更新多筆符合條件的資料 
 
-<img src=" ./sp_image/update.png"  height="350px">
+<img src="./sp_image/update.png"  height="350px">
     
     在執行前再做一次insert.py 新增第五筆資料
 執行結果:
