@@ -43,7 +43,7 @@
 ## CURD 語法實作 
 
 <pre>
-首先介紹 Create 對應的程式為 <a href="">insert.py</a> 
+首先介紹 Create 對應的程式為 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/insert.py">insert.py</a> 
  <img src="./sp_image/insert.png"  height="400px">
 
 執行結果:
@@ -63,7 +63,7 @@
 -------------------------------------------------
 
 <pre>
-接著介紹 Retrieve 對應的程式為 <a href="">ReadData.py</a> 
+接著介紹 Retrieve 對應的程式為 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/ReadData.py">ReadData.py</a> 
 
 <img src="./sp_image/ReadData.png"  height="350px">
 
@@ -75,7 +75,7 @@
 -----------------------------------------------------
 
 <pre>
-接著介紹 Update 對應的程式為 <a href="">update.py</a> 
+接著介紹 Update 對應的程式為 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/update.py">update.py</a> 
 
 <img src="./sp_image/update.png"  height="350px">
 
@@ -103,7 +103,7 @@
 
 --------------------------------------------------------
 <pre>
-接著介紹 Delete 對應的程式為 <a href="">delete.py</a> 
+接著介紹 Delete 對應的程式為 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/delete.py">delete.py</a> 
 
 <img src="./sp_image/delete.png"  height="350px">
 
@@ -117,7 +117,7 @@
 ----------------------------------------------------------
 ## Gridfs
 
-對應的程式 <a href="">insert_image.py</a> 
+對應的程式 <a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/insert_image.py">insert_image.py</a> 
 如果今天要把照片上傳到資料庫可以透過 mongodb 套件 Gridfs 完成
 
 GridFS使用兩個集合fs.files和fs.chunks來存儲文件的元數據和塊。 
