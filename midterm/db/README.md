@@ -161,9 +161,7 @@ Code
 
 ## 資料庫讀取將資料以圖表呈現
 
-Code
-
-<a href="">draw.py<a>
+<a href="https://github.com/weiian000/sp110b/blob/master/midterm/db/draw.py">draw.py<a>
 
 執行結果:
 
